@@ -9,7 +9,7 @@ import {
 } from "lucide-react";
 import AnimatedSection from "../components/AnimatedSection";
 import talleresHeroImg from "../assets/optimized/talleres-hero.webp";
-import portraitImg from "../assets/optimized/sobre-mi-portrait.webp";
+import portraitImg from "../assets/optimized/sobre-mi-lola-montes.jpg";
 
 const whatsappUrl =
   "https://api.whatsapp.com/send?phone=34625183735&text=Hola%20Lola%2C%20me%20gustar%C3%ADa%20recibir%20m%C3%A1s%20informaci%C3%B3n%20sobre%20los%20talleres%20de%20autoconocimiento.";
