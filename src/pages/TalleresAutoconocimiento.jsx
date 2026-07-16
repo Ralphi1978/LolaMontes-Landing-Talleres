@@ -201,7 +201,7 @@ export default function TalleresAutoconocimiento() {
               <img
                 src={portraitImg}
                 alt="Lola Montes"
-                className="aspect-[4/5] w-full object-cover shadow-[0_24px_60px_rgba(38,48,44,0.12)]"
+                className="h-auto w-full bg-[#f4eee6] object-contain shadow-[0_24px_60px_rgba(38,48,44,0.12)]"
               />
             </AnimatedSection>
             <AnimatedSection delay={0.1}>
